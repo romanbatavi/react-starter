@@ -5,7 +5,7 @@
 :root {
   --main-red-color: #e06262;
 }
-dawdawdaw .main-red-color {
+.main-red-color {
   color: var(--main-red-color);
 }
 
