@@ -8,8 +8,7 @@
 .main-red-color {
   color: var(--main-red-color);
 }
-
-html {
+dkaokdoawkd html {
   font-size: 10px;
 }
 
@@ -40,7 +39,6 @@ body html {
 .frame {
   border: 1px solid #484848;
   height: 100%;
-
   display: flex;
   flex-direction: column;
 }
